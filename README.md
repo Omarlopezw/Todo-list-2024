@@ -1,1 +1,1 @@
-# Todo-list-2024
+# It is a simple to-do list to practice my knowledge with javascript language programming.
